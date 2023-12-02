@@ -12,7 +12,7 @@ Below is the raw knowledge base.
 
 #### Darkshore (Human)
 
-##### Video
+##### Videos
 
 - https://youtu.be/XTakmNS9TTY?si=trOhnRmuG8SAQNiv by Esfand
 
