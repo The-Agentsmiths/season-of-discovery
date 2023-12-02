@@ -89,6 +89,10 @@ More details: https://www.bramadams.dev/rogue-rune-slaughter-from-the-shadows/
 
 - <https://www.youtube.com/watch?v=nsacfU1d83k> by Netwrking
 
+##### Text
+
+On the bridge to the SFK instance, stand in the middle and use your Sprint ability to jump onto the small cliff with the chest on it. You **must have lockpicking** (level 18)
+
 ## Warlock
 
 ### Metamorphosis
