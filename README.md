@@ -18,11 +18,12 @@ Below is the raw knowledge base.
 
 ### Divine Storm
 
-#### Darkshore (Human)
+#### Darkshore (Alliance)
 
 ##### Videos
 
 - https://youtu.be/XTakmNS9TTY?si=trOhnRmuG8SAQNiv by Esfand
+- https://www.youtube.com/watch?v=5aG2X5-8Z84 by Studen Albatroz
 
 ## Rogue
 
@@ -79,3 +80,13 @@ More details: https://www.bramadams.dev/rogue-rune-slaughter-from-the-shadows/
 ##### Videos
 
 - <https://www.youtube.com/watch?v=nsacfU1d83k> by Netwrking
+
+## Warlock
+
+### Metamorphosis
+
+#### Darkshore (Alliance)
+
+##### Videos
+
+- https://www.youtube.com/watch?v=5aG2X5-8Z84 by Studen Albatroz
