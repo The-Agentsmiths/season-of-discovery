@@ -50,6 +50,14 @@ Pickpocket mobs from across Trisfal for the four map pieces: gnolls, murlocs, cr
 
 Loot a key from the Wailing banshees to the north of Trisfal. Go into the Crypt of A(todo), and loot the chest on the bottom level of the crypt, left side.
 
+### Saber Slash
+
+#### Shadowfang Keep (Horde)
+
+##### Videos
+
+- https://www.youtube.com/watch?v=z4-bNdv-voA by Netwrking
+
 ### Slaughter From The Shadows
 
 #### Trisfal Glades (Undead)
