@@ -1,8 +1,26 @@
+# Housekeeping
+
+This repository is an attempt to create a GPT informed by the runes in SoD. Because it is a GPT you can ask helpful questions like: show me all the videos you have for rogue, or, tell me only the first step of the shadowstrike rune in trisfal, or, what have we discovered about runes in durotar, etc. 
+
+This makes for a very fun and powerful experience where you get to chat with runes and (in the future) the loadouts for pvp and pve. To submit your pictures and text and videos to this repo, please open a PR or a issue above. For videos, please ideally make them short, or at minimum stay on the topic at hand. If you do not know how to use GitHub, you can email me at `bram + runes @ bramadams . dev` (remove the spaces), or DM me in game @ Ravenlol <Aggro> Horde Rogue, Crusader Strike. 
+
+Below is the raw knowledge base.
+
+## Paladin
+
+### Divine Storm
+
+#### Darkshore (Human)
+
+##### Video
+
+- https://youtu.be/XTakmNS9TTY?si=trOhnRmuG8SAQNiv by Esfand
+
 ## Rogue
 
 ### Quick Draw
 
-#### Undead
+#### Trisfal Glades (Undead)
 
 ##### Pictures
 
@@ -17,7 +35,7 @@ Pickpocket mobs from across Trisfal for the four map pieces: gnolls, murlocs, cr
 
 ### Between the Eyes
 
-#### Undead
+#### Trisfal Glades (Undead)
 
 ##### Text
 
@@ -25,7 +43,7 @@ Loot a key from the Wailing banshees to the north of Trisfal. Go into the Crypt 
 
 ### Slaughter From The Shadows
 
-#### Undead
+#### Trisfal Glades (Undead)
 
 ##### Pictures
 
@@ -40,7 +58,7 @@ More details: https://www.bramadams.dev/rogue-rune-slaughter-from-the-shadows/
 
 ### Mutilate
 
-#### Orc
+#### Durotar (Orc)
 
 ##### Videos
 
@@ -48,7 +66,7 @@ More details: https://www.bramadams.dev/rogue-rune-slaughter-from-the-shadows/
 
 ### Shadowstrike
 
-#### Orc
+#### Durotar (Orc)
 
 ##### Videos
 
