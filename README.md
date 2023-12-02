@@ -50,7 +50,7 @@ Pickpocket mobs from across Trisfal for the four map pieces: gnolls, murlocs, cr
 
 Loot a key from the Wailing banshees to the north of Trisfal. Go into the Crypt of A(todo), and loot the chest on the bottom level of the crypt, left side.
 
-### Saber Slash
+### Saber Slash (level 18 required)
 
 #### Shadowfang Keep (Horde)
 
@@ -60,7 +60,7 @@ Loot a key from the Wailing banshees to the north of Trisfal. Go into the Crypt 
 
 ##### Text
 
-On the bridge to the SFK instance, stand in the middle and use your Sprint ability to jump onto the small cliff with the chest on it. You **must have lockpicking** (level 18 required)
+On the bridge to the SFK instance, stand in the middle and use your Sprint ability to jump onto the small cliff with the chest on it. You **must have lockpicking**
 
 ### Slaughter From The Shadows
 
