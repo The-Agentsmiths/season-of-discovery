@@ -58,6 +58,10 @@ Loot a key from the Wailing banshees to the north of Trisfal. Go into the Crypt 
 
 - https://www.youtube.com/watch?v=z4-bNdv-voA by Netwrking
 
+##### Text
+
+On the bridge to the SFK instance, stand in the middle and use your Sprint ability to jump onto the small cliff with the chest on it. You **must have lockpicking** (level 18 required)
+
 ### Slaughter From The Shadows
 
 #### Trisfal Glades (Undead)
@@ -91,7 +95,7 @@ More details: https://www.bramadams.dev/rogue-rune-slaughter-from-the-shadows/
 
 ##### Text
 
-On the bridge to the SFK instance, stand in the middle and use your Sprint ability to jump onto the small cliff with the chest on it. You **must have lockpicking** (level 18)
+Once you have accepted the quest, go around the cliff in the Valley of Trials behind where Sarkoth the scorpion is then jump from the left side of the cliff to the tiny overpass, then again to where the chest is located.
 
 ## Warlock
 
