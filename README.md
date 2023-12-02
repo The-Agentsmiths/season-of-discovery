@@ -8,7 +8,7 @@ This repository is an attempt to create a GPT informed by the runes in SoD. Beca
 ![Screenshot 2023-12-02 12-28-38](https://github.com/bramses/season-of-discovery/assets/3282661/b7fa948c-ad7c-431f-9b08-8d82827fff35)
 
 
-This makes for a very fun and powerful experience where you get to chat with runes and (in the future) the loadouts for pvp and pve. To submit your pictures and text and videos to this repo, please open a PR or a issue above. For videos, please ideally make them short, or at minimum stay on the topic at hand. If you do not know how to use GitHub, you can email me at `bram + runes @ bramadams . dev` (remove the spaces), or DM me in game @ Ravenlol <Aggro> Horde Rogue, Crusader Strike. 
+This makes for a very fun and powerful experience where you get to chat with runes and (in the future) the loadouts for pvp and pve. To submit your pictures and text and videos to this repo, please open a PR or a issue above. For videos, please ideally make them short, or at minimum stay on the topic at hand. If you do not know how to use GitHub, you can email me at `bram + runes @ bramadams . dev` (remove the spaces), or DM me in game @ Ravenlol (Guild: Aggro), Horde, Orc Rogue, Crusader Strike. 
 
 Below is the raw knowledge base.
 
