@@ -14,6 +14,24 @@ Below is the raw knowledge base.
 
 # Knowledge Base
 
+## Druid
+
+### Lacerate
+
+#### Westfall (Alliance)
+
+##### Videos
+
+- https://youtu.be/Bx5cbWuvYGI?si=paYjeTvBzE29h-TI by MMO Gaming Guy
+
+### Wild Strikes
+
+#### Darkshore (Alliance)
+
+##### Videos
+
+- https://youtu.be/eHymJzSjyls?si=rOegewjRPjpHdNhw by Gary van Thos Gaming
+
 ## Paladin
 
 ### Divine Storm
