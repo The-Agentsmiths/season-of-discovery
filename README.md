@@ -124,3 +124,7 @@ Once you have accepted the quest, go around the cliff in the Valley of Trials be
 ##### Videos
 
 - https://www.youtube.com/watch?v=5aG2X5-8Z84 by Studen Albatroz
+
+#### The Barrens (Horde)
+
+- https://youtu.be/xNNlAsPWcKQ?si=mU2bSwWwHzFmCPL5 by Sarthe
