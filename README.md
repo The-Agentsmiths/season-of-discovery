@@ -32,6 +32,59 @@ Below is the raw knowledge base.
 
 - https://youtu.be/eHymJzSjyls?si=rOegewjRPjpHdNhw by Gary van Thos Gaming
 
+## Priest
+
+### Shared Pain
+
+#### Trisfal Glades (Horde)
+
+##### Text 
+
+- https://www.bramadams.dev/priest-runes-trisfal-glades/
+
+##### Images
+
+- ![trisfal map of runes](https://www.bramadams.dev/content/images/2023/12/WorldMap-Tirisfal-copy.jpg)
+- ![kneel for buffs](https://www.bramadams.dev/content/images/size/w1600/2023/12/Screenshot-2023-12-05-at-2.29.55-PM-1.jpg)
+
+##### Videos
+
+- https://youtube.com/shorts/cM3TicIn4RQ?si=cHShPW7gNt2K3-jj by Hydramist
+
+### Void Plague
+
+#### Trisfal Glades (Horde)
+
+##### Text 
+
+- https://www.bramadams.dev/priest-runes-trisfal-glades/
+
+##### Images
+
+- ![trisfal map of runes](https://www.bramadams.dev/content/images/2023/12/WorldMap-Tirisfal-copy.jpg)
+- ![kneel for buffs](https://www.bramadams.dev/content/images/size/w1600/2023/12/Screenshot-2023-12-05-at-2.29.55-PM-1.jpg)
+
+##### Videos
+
+- https://youtube.com/shorts/cM3TicIn4RQ?si=cHShPW7gNt2K3-jj by Hydramist
+
+### Homunculi
+
+#### Trisfal Glades (Horde)
+
+##### Text 
+
+- https://www.bramadams.dev/priest-runes-trisfal-glades/
+
+##### Images
+
+- ![trisfal map of runes](https://www.bramadams.dev/content/images/2023/12/WorldMap-Tirisfal-copy.jpg)
+- ![kneel for buffs](https://www.bramadams.dev/content/images/size/w1600/2023/12/Screenshot-2023-12-05-at-2.29.55-PM-1.jpg)
+
+##### Videos
+
+- https://youtube.com/shorts/cM3TicIn4RQ?si=cHShPW7gNt2K3-jj by Hydramist
+
 ## Paladin
 
 ### Divine Storm
